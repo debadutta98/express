@@ -5,7 +5,6 @@
  */
 
 var express = require('../../');
-
 var app = module.exports = express();
 
 // create an error with .status. we
